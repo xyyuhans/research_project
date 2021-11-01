@@ -1,0 +1,3 @@
+/home/xyyuhans/Syncthing/backup/kth/research/project/cpp/build/CMakeFiles/rebuild_cache.dir
+/home/xyyuhans/Syncthing/backup/kth/research/project/cpp/build/CMakeFiles/edit_cache.dir
+/home/xyyuhans/Syncthing/backup/kth/research/project/cpp/build/CMakeFiles/example-app.dir

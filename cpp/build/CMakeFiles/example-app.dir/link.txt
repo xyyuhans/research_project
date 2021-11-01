@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/example-app.dir/example-app.cpp.o -o example-app  /usr/lib/libtorch.so -lc10 -Wl,--no-as-needed,"/usr/lib/libtorch_cpu.so" -Wl,--as-needed /usr/lib/libprotobuf.so /usr/lib/libc10.so /usr/lib/libglog.so.0.5.0 /usr/lib/libgflags.so.2.2.2 -lpthread -Wl,--no-as-needed,"/usr/lib/libtorch.so" -Wl,--as-needed 
